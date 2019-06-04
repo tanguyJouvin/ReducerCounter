@@ -1,3 +1,11 @@
 .App {
   text-align: center;
+  background-color: aqua;
+  height: 6rem;
+  width: 6rem;
+  align-items: center;
+  display: block;
+  float: inline-middle;
+  margin: 10%;
+  padding: 10%;
 }
